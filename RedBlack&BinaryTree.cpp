@@ -1,5 +1,3 @@
-//Aluno: Vitor Curiel Trentin Corral DRE:115007555
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
