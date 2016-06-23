@@ -1,3 +1,5 @@
+// Counts every call that a insert takes on a a Red Black tree or an Binary tree
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
